@@ -1,0 +1,11 @@
+{
+  "name": "nearcord",
+  "version": "0.0.0",
+  "description": "",
+  "main": "nearcord.cjs",
+  "scripts": {
+    "start": "node nearcord.cjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
